@@ -3,9 +3,9 @@
 To proceed, clone the repository from Git. Follow the instructions below.
 
 Open the terminal and run the below commands.
-1) composer install
-2) php artisan serve
-3) npm run dev
+1) <b>composer install</b>
+2) <b>php artisan serve</b>
+3) <b>npm run dev</b>
 
 
 
