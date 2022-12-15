@@ -19,8 +19,11 @@ I have also included the pages' URLs for your convenience.
 
 
 Homepage: http://localhost:8000 or http://localhost:8000/home 
+
 Catalog: http://localhost:8000/catalog
+
 Product: http://localhost:8000/product
 
 Additionally, I have created some unit test cases to verify the api's response. For checking the unit test cases.You just have to run the below command.
+
 php artisan test
