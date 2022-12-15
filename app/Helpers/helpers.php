@@ -7,6 +7,8 @@
      */
 if (! function_exists('pageTitle')) {
     function pageTitle($page){
+
+        
         if($page==null){
             $page="home";
         }
