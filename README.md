@@ -26,4 +26,4 @@ Product: http://localhost:8000/product
 
 Additionally, I have created some unit test cases to verify the api's response. For checking the unit test cases.You just have to run the below command.
 
-php artisan test
+<b>php artisan test<b>
